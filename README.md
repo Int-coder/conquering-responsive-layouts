@@ -258,10 +258,6 @@ The course is structured as a 21 day challenge to give you time to learn and pra
 
 The course is targeted at beginners, and explains fundamentals like percentages, max-width an the basics of flexbox. The quality of the content is great, and the challenges make sure you understand and practice what you have learned during the video lectures. The challenges let you build a given design (they are not code along). At the end of the course you will get some tips about where you can learn more and how to advance your knowledge.
 
-### New iteration
-
-At the moment (may 2020) Kevin Powell is adjusting the course content for future iterations. Keep an eye on the webiste if you are interested in future enrollment.
-
 ### Summary
 
 Hands-on course to learn to build responsive layouts using flexbox. In the course challenges you will build (parts of) responsive websites yourself.
