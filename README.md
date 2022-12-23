@@ -222,7 +222,7 @@ To display logo on the left, links in the middle and signin/signup on the right,
 ### Notes day 16 What breakpoints to use
 
 Design should dictate breakpoints: start with small screen and make it bigger to define breakpoints.
-![Breakpoint Chart](https://github.com/int-coder/conquering-responsive-layouts/blob/master/image.jpg?raw=true)
+![Breakpoint Chart](https://github.com/int-coder/conquering-responsive-layouts/blob/master/image.png?raw=true)
 Three suggestions:
 1. Get your breakpoints right
 2. Name your ranges sensibly
