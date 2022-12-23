@@ -263,6 +263,11 @@ Design should dictate breakpoints: start with small screen and make it bigger to
 - Makes website responsive by, not skirinking the scale of website in mobile devices.
 
 ### Notes Day 18 | Challenge solution & Mobile-first
+1. Make Html first the structure.
+2. Write Css for mobile
+3. Adjust for desktop in Media queries (To Avoid repetation and using excess css for adjustment later).
+
+### Notes Day 19 | Mobile navigation challenge
 
 
 ### Notes day 21 Recap
