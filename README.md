@@ -254,6 +254,16 @@ Design should dictate breakpoints: start with small screen and make it bigger to
   }
 }
 ```
+- The tl;dr of the article: Use 600px, 900px, 1200px, and 1800px if you plan on giving the giant-monitor people something special.
+
+### Notes day 17 The meta viewport tag
+```css
+<meta name="viewport" content="width=device-width ,initial-scale=1.0">
+```
+- Makes website responsive by, not skirinking the scale of website in mobile devices.
+
+### Notes Day 18 | Challenge solution & Mobile-first
+
 
 ### Notes day 21 Recap
 
