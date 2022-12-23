@@ -222,6 +222,37 @@ To display logo on the left, links in the middle and signin/signup on the right,
 ### Notes day 16 What breakpoints to use
 
 Design should dictate breakpoints: start with small screen and make it bigger to define breakpoints.
+![Breakpoint Chart](https://github.com/int-coder/conquering-responsive-layouts/blob/master/image.jpg?raw=true)
+Three suggestions:
+1. Get your breakpoints right
+2. Name your ranges sensibly
+3. Be declarative
+```css
+@mixin for-phone-only {
+  @media (max-width: 599px) { @content; }
+}
+@mixin for-tablet-portrait-up {
+  @media (min-width: 600px) { @content; }
+}
+@mixin for-tablet-landscape-up {
+  @media (min-width: 900px) { @content; }
+}
+@mixin for-desktop-up {
+  @media (min-width: 1200px) { @content; }
+}
+@mixin for-big-desktop-up {
+  @media (min-width: 1800px) { @content; }
+}
+
+// usage
+.my-box {
+  padding: 10px;
+  
+  @include for-desktop-up {
+    padding: 20px;
+  }
+}
+```
 
 ### Notes day 21 Recap
 
